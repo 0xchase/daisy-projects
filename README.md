@@ -14,4 +14,3 @@ Ideas for audio programming projects based on the daisy embedded platform.
  - Include impulse response of violin body input/output
  - Seperate input for sample pitch and pitch bend pitch
  - Seperate inputs for various sample triggers
- 
