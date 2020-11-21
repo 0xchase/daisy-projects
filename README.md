@@ -23,3 +23,6 @@ Ideas for audio programming projects based on the daisy embedded platform.
 ### Prepared piano module
  - Create various cool processed piano samples for it
  - Also normal piano samples
+
+### Big Oscillator module
+ - Various options
