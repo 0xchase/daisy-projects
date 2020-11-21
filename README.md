@@ -18,3 +18,8 @@ Ideas for audio programming projects based on the daisy embedded platform.
  - Contact strings to play, also can vibrato
 
 ### Amp simulating eurorack module
+ - Useful for sound processing
+
+### Prepared piano module
+ - Create various cool processed piano samples for it
+ - Also normal piano samples
