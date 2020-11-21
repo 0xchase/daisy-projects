@@ -15,3 +15,5 @@ Ideas for audio programming projects based on the daisy embedded platform.
  - Seperate input for sample pitch and pitch bend pitch
  - Seperate inputs for various sample triggers
  - KickStarter to find the project
+
+### Amp simulating eurorack module
