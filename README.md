@@ -24,5 +24,8 @@ Ideas for audio programming projects based on the daisy embedded platform.
  - Create various cool processed piano samples for it
  - Also normal piano samples
 
-### Big Oscillator module
+### Big Oscillator Module
  - Various options
+
+### Muse Headset Module
+ - CV output for each of the four brainwaves, knobs to steady signal
