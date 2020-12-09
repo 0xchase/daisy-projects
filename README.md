@@ -2,6 +2,9 @@
 
 Ideas for audio programming projects based on the daisy embedded platform.
 
+### Generative Compiler Module
+ - Create a scripting language for VSCODE, to generate songs for 8 different outputs
+
 ### Eurorack Violin Module
  - Sample violinist (ask reddit, GSO, TRL)
  - Laser cut module front panel
